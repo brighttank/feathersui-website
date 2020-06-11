@@ -6,7 +6,7 @@ sidebar_label: Installation
 
 > 🚨 Feathers UI for Haxe/OpenFL is currently in an **alpha** state. Many components and features are missing, and there will be bugs. This library is not currently recommended for production use.
 >
-> For a more stable version of Feathers UI, try out the original [AS3/Starling version](../as3-starling/getting-started) instead.
+> For a more stable version of Feathers UI, try out the original [AS3/Starling version](../../as3-starling/getting-started) instead.
 
 [Feathers UI](/) for Haxe and OpenFL is published on [Haxelib](https://lib.haxe.org).
 
